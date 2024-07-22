@@ -1,9 +1,9 @@
-<h1 align="center">Hi I am, Randolph Saludo</h1>
+<h1 align="center">Randolph Saludo</h1>
 <h3 align="center">A Passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randolphdr&label=Profile%20views&color=0e75b6&style=flat" alt="randolphdr" /> </p>
 
-- 🌱 I’m currently learning **Bachelor of Science in Information Technology**
+- 🌱 I’m currently studying **Bachelor of Science in Information Technology**
 
 - 👯 I’m looking to collaborate on **any Web and GUI Development**
 
@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **Randolphsaludo22@outlook.ph**
 
-- ⚡ Fun fact **They think I am a nerd but I am surely not.**
+- ⚡ Fun fact **they think I am a nerd but I am surely not.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/randolphdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="randolphdr" height="30" width="40" /></a>
+<a href="https://instagram.com/randolphdr](https://www.instagram.com/_randolphdr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="randolphdr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
