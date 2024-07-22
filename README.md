@@ -1,6 +1,3 @@
-<h1 align="center" font-size="24px">Randolph Saludo</h1>
-<h3 align="center">A Passionate Software Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randolphdr&label=Profile%20views&color=0e75b6&style=flat" alt="randolphdr" /> </p>
 
 - 🌱 I’m currently studying **Bachelor of Science in Information Technology**
