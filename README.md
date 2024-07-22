@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **any Web and GUI Development**
 
-- 💬 Ask me about **anything about Web Development**
+- 💬 Ask me anything about **Web Development**
 
-- 📫 How to reach me **Randolphsaludo22@outlook.ph**
+- 📫 How to reach me? email me at **Randolphsaludo22@outlook.ph**
 
 - ⚡ Fun fact **they think I am a nerd but I am surely not.**
 
