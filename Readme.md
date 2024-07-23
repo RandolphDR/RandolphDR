@@ -1,7 +1,7 @@
 ------------------------------------------- 
 ### Socials: 
 <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://web.facebook.com/RandolphDR"><img src="https://img.shields.io/badge/RandolphDR?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://web.facebook.com/RandolphDR"><img src="https://img.shields.io/badge/randolph-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <br>
 ### How to reach me: 
 <a href="mailto: cacastanas@gmail.com">
