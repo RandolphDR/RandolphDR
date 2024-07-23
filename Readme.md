@@ -23,4 +23,4 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/%7Brandolphdr%7D/count.svg}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{randolphdr}/count.svg)
