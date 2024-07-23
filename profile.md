@@ -3,7 +3,57 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="https://github.com/RandolphDR/RandolphDR/blob/main/profile.css"/>
+        <style>
+            * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+body .profile {
+     width: 95%;
+     height: 350px;
+     background-image: url("https://github.com/RandolphDR/RandolphDR/blob/main/Abstract.jpg");
+     background-position: center;
+     background-size: 100% 100%;
+     background-repeat: no-repeat;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 5%;
+}
+
+body .profile .profile-photo {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+}
+
+body .profile .profile-information h1 {
+    color: white;
+    font: 35px Times New Roman;
+    font-weight: bolder;
+}
+
+body .profile .profile-information h3 {
+    color: lightgray;
+    font: 20px Times New Roman;
+}
+
+body .full-information {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+        </style>
     </head>
     <body>
         <div class="profile">
