@@ -5,7 +5,7 @@
 <br>
 ### How to reach me: 
 <a href="mailto: Randolphsaludo22@outlook.ph">
-<img src="https://img.shields.io/badge/-Randolphsaludo22%40outlook.ph-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-Randolphsaludo22@outlook.ph-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### My Startup Tech Community:
 
