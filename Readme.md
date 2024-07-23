@@ -5,7 +5,7 @@
 <br>
 ### How to reach me: 
 <a href="mailto: Randolphsaludo22@outlook.ph">
-<img src="https://img.shields.io/badge/-Randolphsaludo22@outlook.ph-7B83EB?style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/-Randolphsaludo22@outlook.ph-7B83EB?style=for-the-badge&logo=microsoft-outlook&logoColor=white" ></a>
 
 ### Current Status Quo:
 - 🌱 I’m currently studying **Bachelor of Science in Information Technology**
