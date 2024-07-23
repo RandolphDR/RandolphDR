@@ -23,4 +23,4 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randolphdr&label=Profile%20views&color=0e75b6&style=flat" alt="randolphdr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=randolphdr&color=0e75b6&style=flat" alt="randolphdr" /> </p>
