@@ -23,4 +23,4 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randolphdr&color=0e75b6&style=flat" alt="randolphdr" /> </p>
+![Visitor Count](https://profile-counter.glitch.me/%7Brandolphdr%7D/count.svg}/count.svg)
