@@ -1,4 +1,11 @@
 ------------------------------------------- 
+
+### Current Status Quo:
+- 🌱 I’m currently studying **Bachelor of Science in Information Technology**
+- 👯 I’m looking to collaborate on **any Web and GUI Development**
+- ⚡ Fun fact **they think I am a nerd but I am surely not.**
+  
+------------------------------------------- 
 ### Socials: 
 <a href="https://web.facebook.com/RandolphDR"><img src="https://img.shields.io/badge/randolphdr-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.instagram.com/_randolphdr/"><img src="https://img.shields.io/badge/_randolphdr-1877F2?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -7,14 +14,6 @@
 ### How to reach me: 
 <a href="mailto: Randolphsaludo22@outlook.ph">
 <img src="https://img.shields.io/badge/-Randolphsaludo22@outlook.ph-7B83EB?style=for-the-badge&logo=gmail&logoColor=white" ></a>
-
-------------------------------------------- 
-
-### Current Status Quo:
-- 🌱 I’m currently studying **Bachelor of Science in Information Technology**
-- 👯 I’m looking to collaborate on **any Web and GUI Development**
-- ⚡ Fun fact **they think I am a nerd but I am surely not.**
-
 ------------------------------------------- 
 
 ### Tools I work upon:
