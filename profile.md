@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>RandolphDR</title>
-        <link rel="stylesheet" href="profile.css"/>
+        <link rel="stylesheet" href="https://github.com/RandolphDR/RandolphDR/blob/main/profile.css"/>
     </head>
     <body>
         <div class="profile">
