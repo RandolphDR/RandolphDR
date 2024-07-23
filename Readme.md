@@ -4,8 +4,8 @@
 <a href="https://www.instagram.com/_randolphdr/"><img src="https://img.shields.io/badge/_randolphdr-1877F2?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br>
 ### How to reach me: 
-<a href="mailto: cacastanas@gmail.com">
-<img src="https://img.shields.io/badge/-cacastanas%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<a href="mailto: Randolphsaludo22@outlook.ph">
+<img src="https://img.shields.io/badge/-Randolphsaludo22%40outlook.ph-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### My Startup Tech Community:
 
