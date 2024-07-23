@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class="profile">
-            <img class="profile-photo" src="../arts/SALUDO,RANDOLPH_3894.JPG"/>
+            <img class="profile-photo" src="https://github.com/RandolphDR/RandolphDR/blob/main/SALUDO,RANDOLPH_3894.JPG?raw=true"/>
             <div class="profile-information">
                 <h1>RANDOLPH S. SALUDO</h1>
                 <h3>I am a Website Developer</h3>
