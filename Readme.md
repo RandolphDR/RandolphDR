@@ -3,7 +3,6 @@
 ### Current Status Quo:
 - 🌱 I’m currently studying **Bachelor of Science in Information Technology**
 - 👯 I’m looking to collaborate on **any Web and GUI Development**
-- ⚡ Fun fact **they think I am a nerd but I am surely not.**
   
 ------------------------------------------- 
 
