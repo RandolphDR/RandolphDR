@@ -2,7 +2,7 @@
 
 ### Current Status Quo:
 - 🌱 I’m currently studying **Bachelor of Science in Information Technology**
-- 👯 I’m looking for a project on **Web Development**
+- 👯 I'm looking for a **Web Development** project to work on.
   
 ------------------------------------------- 
 
