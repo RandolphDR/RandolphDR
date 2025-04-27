@@ -1,3 +1,5 @@
+-------------------------------------------
+My Personal Portfolio: <a href="https://randolphdr.github.io/Portfolio-v1/">Visit my Personal Portfolio Here</a>
 ------------------------------------------- 
 
 ### Current Status Quo:
