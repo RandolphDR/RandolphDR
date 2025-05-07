@@ -1,5 +1,5 @@
 -------------------------------------------
-<a href="https://randolphdr.github.io/Portfolio-v1/">My Live Portfolio Click Here!</a>
+<a href="https://randolphdr.github.io/Portfolio-v1/" target="_blank">My Live Portfolio Click Here!</a>
 ------------------------------------------- 
 
 ### Current Status Quo:
