@@ -46,6 +46,3 @@
 </p>
 
 ------------------------------------------- 
-
-### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/randolphdr/count.svg)
