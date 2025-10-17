@@ -5,7 +5,6 @@
 ### Current Status Quo:
 - 🌱 I’m currently studying **Bachelor of Science in Information Technology**
 - 🔥 I’m currently focused into the **Laravel framework**.
-- 👯 I'm looking for a **Web Development** project to work on.
   
 ------------------------------------------- 
 
