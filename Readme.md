@@ -2,9 +2,9 @@
 <a href="https://randolphdr.github.io/Portfolio-v1/" target="_blank">My Live Portfolio Click Here!</a>
 ------------------------------------------- 
 
-### Current Status Quo:
+### Current Status:
 - 🌱 I’m currently studying **Bachelor of Science in Information Technology**
-- 🔥 I’m currently focused into developing **Enrollment System**.
+- 🔥 I’m currently focused in developing **Online Enrollment System** my capstone project.
   
 ------------------------------------------- 
 
